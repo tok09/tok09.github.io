@@ -1,9 +1,9 @@
-# [tw93.fun](https://tw93.fun)
+# [tok09](https://tok09.github.io/drake04)
 
 - This is Tw93's front-end technology blog.
 - Commonly used to record learning and research front-end technology.
 - Concerned about new technology and new thinking.
-- The blog theme named [cosy-jekyll-theme](https://rubygems.org/gems/cosy-jekyll-theme) is created by [Tw93](https://tw93.fun/about/).
+- The blog theme named [cosy-jekyll-theme](https://rubygems.org/gems/cosy-jekyll-theme) is created by [Tw93](https://tok09/about/).
 
 ## Features
 
@@ -17,7 +17,7 @@
 - By using SVG and Canvas makes this blog more geeks.
 - When running in pc,It will show a qrCode that you can read on mobile.
 - When the picture in articles is **too complicated to see it clearly，you can zoom it in full-screen.**
-- Funny [custom 404 page](https://tw93.fun/err),You will like it.
+- Funny [custom 404 page](https://tok09.github.io/drake04/err),You will like it.
 - **More suitable for China**:
 
   - Dropping google webfont, using proxy webfont.

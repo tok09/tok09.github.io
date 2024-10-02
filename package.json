@@ -1,13 +1,13 @@
 {
-  "name": "tw93",
+  "name": "tok09",
   "author": "Tw93<tw93@qq.com>",
-  "homepage": "https://tw93.fun",
+  "homepage": "https://tok09.github.io/drake04",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tw93/tw93.github.io"
+    "url": "https://tok09.github.io/drake04"
   },
   "bugs": {
-    "url": "https://github.com/tw93/tw93.github.io/issues"
+    "url": "https://tok09.github.io/drake04/issues"
   },
   "scripts": {
     "prep": "gem install bundler && bundle install",

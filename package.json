@@ -1,13 +1,13 @@
 {
   "name": "tok09",
-  "author": "Tw93<tw93@qq.com>",
-  "homepage": "https://tok09.github.io/tok9",
+  "author": "Tw93<toszhang@oulook.com>",
+  "homepage": "https://tok09.github.io",
   "repository": {
     "type": "git",
-    "url": "https://tok09.github.io/tok9"
+    "url": "https://tok09.github.io"
   },
   "bugs": {
-    "url": "https://tok09.github.io/tok9/issues"
+    "url": "https://tok09.github.io/issues"
   },
   "scripts": {
     "prep": "gem install bundler && bundle install",

@@ -1,7 +1,7 @@
 # Site Information
 title: tok09
 description: "Hi, I'm tok09, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of MiaoYan, Pake, Trendy Weekly, XRender, and WeexUi. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas."
-url: https://tok09.github.io/tok9
+url: https://tok09.github.io
 repo: tok09.github.io
 lang: zh-CN
 timezone: Africa/El_Aaiun
@@ -17,7 +17,7 @@ menu:
   - title: "About"
     url: "/about.html"
   - title: "Weekly"
-    url: "https://weekly.tok09.github.io/"
+    url: "https://tok09.github.io.weekly/"
 
 # SEO and Analytics
 google_analytics: G-KS7EDB6BRM
